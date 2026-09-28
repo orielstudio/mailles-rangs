@@ -1,0 +1,1 @@
+var e=[{id:`pull-femme-m`,label:`Pull femme, taille M`,metres:1225},{id:`pull-homme-l`,label:`Pull homme, taille L`,metres:1750},{id:`echarpe-150`,label:`Écharpe de 150 cm`,metres:275},{id:`bonnet-adulte`,label:`Bonnet adulte`,metres:125},{id:`plaid-adulte`,label:`Plaid adulte`,metres:2150},{id:`couverture-bebe`,label:`Couverture bébé`,metres:700}],t=.5;export{e as n,t};
